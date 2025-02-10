@@ -11,7 +11,6 @@ The **Employee Study Case** is a Spring Boot application that provides functiona
 - **View Employee by ID**: Retrieve detailed information about a specific employee.
 - **Exception Handling**: Handles application-specific and generic exceptions.
 - **DTO-based Design**: Ensures clean separation between entity and API layers.
-- **Pagination**: Supports pagination for employee data retrieval.
 
 ---
 
@@ -22,7 +21,6 @@ The **Employee Study Case** is a Spring Boot application that provides functiona
   - Spring Web: RESTful API development.
   - Spring Validation: Input validation.
 - **H2 Database**: In-memory database for testing and development.
-- **Lombok**: To reduce boilerplate code.
 - **Mockito**: For unit testing.
 - **JUnit 5**: Testing framework.
 - **Maven**: Build and dependency management tool.
