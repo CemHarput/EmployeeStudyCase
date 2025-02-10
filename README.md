@@ -27,6 +27,11 @@ The **Employee Study Case** is a Spring Boot application that provides functiona
 
 ---
 
+## Project Dependencies
+
+![Employee Management Banner](DependencyTree.png)
+
+
 ## Prerequisites
 
 Before running this application, ensure you have the following installed:
